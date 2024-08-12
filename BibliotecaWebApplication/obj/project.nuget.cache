@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G6x2cA2d9CE=",
+  "dgSpecHash": "ax8hNZEAgH8=",
   "success": true,
-  "projectFilePath": "C:\\Biblioteca_MVC2\\BibliotecaWebApplication\\BibliotecaWebApplication\\BibliotecaWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\lab02\\LAB02\\BibliotecaWebApplication\\BibliotecaWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aprendiz\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Aprendiz\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
